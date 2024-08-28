@@ -8,7 +8,7 @@ document.addEventListener("visibilitychange", function () {
   
   let dataTyping = {
     target: "typing-text",
-    text: '["Web development","Android development"]',
+    text: '["Web development","MERN Stack"]',
     delay: "1000",
   };
   let dataTyping2 = {
